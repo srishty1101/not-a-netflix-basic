@@ -2,8 +2,11 @@
 A web application with similar UI as Netflix.
 
 ## Project Description
-In the project, I have created a web application using `ReactJs` and used npm to install all the dependency. It provides processed IMDB movies data based on rating and other filters, YouTube trailer feature with service API calls.
-I have get to learn about NodeJS, ReactJS, JavaScript, REST API etc. while working on this project. 
+In the project, I have created a web application using `ReactJs` and used npm to install all the dependency. 
+- It provides processed IMDB movies data based on rating and other filters, YouTube trailer feature with service API calls.
+- I have get to learn about NodeJS, ReactJS, JavaScript, REST API etc. while working on this project. 
+- Also, has Picture-In-Picture enabled.
+
 
 ## Proof of Concept 
 - Hosted URL - https://not-a-netflix.web.app/
