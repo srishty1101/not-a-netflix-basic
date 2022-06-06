@@ -34,6 +34,6 @@ http://localhost:3000/
 
 ## Tools Used
 1. Code Editor: [VS Code](https://code.visualstudio.com/)
-
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/84490597/172244209-28956a59-232e-42a7-98a5-54c1c16e298c.png">
 <img width="1436" alt="image" src="https://user-images.githubusercontent.com/84490597/172236964-863d04ad-384d-42c1-b151-6548eab88e03.png">
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/84490597/172237074-c835abe2-b866-4030-ad64-672f66bb89a2.png">
